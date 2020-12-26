@@ -17,7 +17,7 @@ Once the pairing is done, open the application and say one of these words near t
 
 3 - Partir
 
-For further information, check to report included in the repositery.
+For further information, check the report included in the repositery.
 
 ## Videos
 
