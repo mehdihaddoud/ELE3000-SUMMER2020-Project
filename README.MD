@@ -1,4 +1,4 @@
-# ELE3000 SUMMER 2020 : Personal Project in Electrical Engineering 
+# Voice recognition module using HC-05 on Arduino 
 
 ## Project description
 
